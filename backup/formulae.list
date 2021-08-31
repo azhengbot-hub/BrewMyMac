@@ -1,3 +1,4 @@
+apache-flink
 autoconf
 brotli
 c-ares
@@ -18,6 +19,7 @@ mycli
 nghttp2
 node
 nushell
+openjdk@11
 openssl@1.1
 pcre2
 pkg-config
