@@ -5,6 +5,7 @@ argon2
 aspell
 autoconf
 brotli
+bzip2
 c-ares
 curl
 fontconfig
@@ -61,6 +62,8 @@ pcre
 pcre2
 php
 pkg-config
+pyenv
+pyenv-virtualenv
 python-tabulate
 python@3.9
 readline
@@ -68,10 +71,12 @@ ripgrep
 rtmpdump
 sqlite
 tidy-html5
+tig
 tree-sitter
 unibilium
 unixodbc
 webp
 xz
+zlib
 zookeeper
 zstd
