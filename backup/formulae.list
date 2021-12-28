@@ -40,6 +40,7 @@ libunistring
 libuv
 libvterm
 libzip
+lrzsz
 lua
 luajit-openresty
 luv
