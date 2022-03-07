@@ -118,6 +118,7 @@ python-tabulate
 python@3.9
 rav1e
 readline
+redis
 ripgrep
 rtmpdump
 rubberband
