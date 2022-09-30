@@ -14,6 +14,7 @@ cairo
 cjson
 cmocka
 curl
+cyrus-sasl
 dav1d
 ffmpeg
 flac
@@ -23,6 +24,9 @@ freetype
 frei0r
 fribidi
 fzf
+gcc
+gcc@10
+gcc@11
 gd
 gdbm
 gdk-pixbuf
@@ -39,11 +43,14 @@ graphviz
 gts
 guile
 harfbuzz
+highway
 icu4c
 imath
+isl
 jasper
 jemalloc
 jpeg
+jpeg-turbo
 jpeg-xl
 krb5
 lame
@@ -57,6 +64,7 @@ libev
 libevent
 libffi
 libidn2
+libmpc
 libnghttp2
 libogg
 libpng
@@ -98,6 +106,7 @@ lzo
 m4
 mbedtls
 mpdecimal
+mpfr
 msgpack
 mycli
 neovim
